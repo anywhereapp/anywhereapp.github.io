@@ -1,11 +1,11 @@
 Package: net.85819.ios.otrlocation.dev
 Name: AnyWhere虚拟定位 
-Version: 6.5.0
+Version: 6.7.0
 Architecture: iphoneos-arm
 Description: 完全免费的地址和设备型号修改神器!
 Maintainer: onTheRoad <ontheroadstudio@live.cn>
 Author: onTheRoad <ontheroadstudio@live.cn>
 Section: Tweaks
-Size: 32922900
-MD5sum: 53c65c55da90db832794983cb5d8f54d 
-Filename: ./debs/net.85819.ios.OTRLocation_6.5.0-1_iphoneos-arm.deb
+Size: 50663188
+MD5sum: e4377a8435739d159e69540f562ca286 
+Filename: ./debs/net.85819.ios.OTRLocation_6.7.0-6_iphoneos-arm.deb
